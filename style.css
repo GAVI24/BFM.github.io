@@ -20,11 +20,17 @@ header {
     text-align: center;
 }
 
+header .logo {
+text-align: center;
+    margin: 0 auto;
+
+}
 header .logo img {
     width: 100%;
     height: auto;
+display: blobk;
     border-radius: 50%;
-    margin: 20px;
+    margin:0 auto;
 
 }
 
